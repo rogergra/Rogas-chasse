@@ -1,0 +1,23 @@
+[ATTACK LOG]
+
+------------------------------
+[DATE: 2024-11-24] - Attaque ARP Spoofing
+------------------------------
+
+IP Cible: 192.168.1.10
+MAC Cible: 00:14:22:01:23:45
+Passerelle: 192.168.1.1
+Statut: Déconnecté
+Blocage: 30 minutes
+
+------------------------------
+[DATE: 2024-11-24] - Attaque ARP Spoofing
+------------------------------
+
+IP Cible: 192.168.1.11
+MAC Cible: 00:14:22:01:23:46
+Passerelle: 192.168.1.1
+Statut: Déconnecté
+Blocage: 30 minutes
+
+------------------------------
