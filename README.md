@@ -19,26 +19,12 @@ Avant de lancer le script, vous devez installer certaines dépendances :
 - **arpspoof** : Utilisé pour effectuer l'attaque ARP Spoofing.
 - **nmap** : Utilisé pour scanner le réseau et détecter les appareils connectés.
 
-### Installation des Dépendances
-
-#### Installer Python 3.x
-
-Si Python 3 n'est pas installé, vous pouvez l'installer via les commandes suivantes :
+### installation
 
 - Sur Ubuntu/Debian :
   ```bash
-  sudo apt-get update
-  sudo apt-get install python3
-
-
-
-
-
-
-
-
-
-
+  git clone https://github.com/rogergra/Rogas-chasse.git
+  pip install -r requirements.txt
 
 ######Depandance neccessair 
 sudo apt-get install dsniff nmap
