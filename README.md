@@ -26,10 +26,10 @@ Avant de lancer le script, vous devez installer certaines dépendances :
   git clone https://github.com/rogergra/Rogas-chasse.git
   pip install -r requirements.txt
 
-######Depandance neccessair 
+##Depandance neccessair 
 sudo apt-get install dsniff nmap
 
-###executon du pogramme
+##executon du pogramme
 
 
 python3 rogas_chasse.py
